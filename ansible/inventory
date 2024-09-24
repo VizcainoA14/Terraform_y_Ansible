@@ -1,0 +1,2 @@
+[all]
+servidor1 ansible_host=54.88.64.250 ansible_user=ubuntu
